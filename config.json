@@ -1,0 +1,14 @@
+{
+  "main_token": "OTY5MjQ5MTU0NDA2Njk5MDk5.GqVKHJ.166uwr_eHvpLT22e2YOQBHdoTHVfFH_q7aMaCs", 
+  "mongodb_url": "mongodb+srv://admin:ezjankaap@swordie.03sw5.mongodb.net/?retryWrites=true&w=majority",
+  "alexflipnoteApiKey":"",
+  "developers": ["801148038269763644"],
+  "datadogApiKey": "",
+  "dashboard":"true", 
+  "prefix":"s!",
+  "arc":"",
+  "youtube_key":"",
+  "cat_api_key":"071e5474-e4e5-49a6-b82d-1ad922d846a5",
+  "webhook_id":"968128822442598430",
+  "webhook_url":"ZpUbMUKAw3HC5S8LKOxZ6QZGeQOMfEIjGq-Hdr0jcrI7KIjmNox65zLxhSiZ8BSdzcU0"
+}
